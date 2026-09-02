@@ -1,0 +1,144 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MobWithAdPopcornAdapter",
+    "printedName": "MobWithAdPopcornAdapter",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "APSSPSDK",
+        "printedName": "APSSPSDK",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "APSSPMediationNAM",
+        "printedName": "APSSPMediationNAM",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "GFPSDK",
+        "printedName": "GFPSDK",
+        "declKind": "Import",
+        "moduleName": "MobWithAdPopcornAdapter"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 394,
+      "length": 25,
+      "value": "\"MobWithAdPopcornAdapter\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 776,
+      "length": 25,
+      "value": "\"MobWithAdPopcornAdapter\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1045,
+      "length": 21,
+      "value": "\"yyyy-MM-dd HH:mm:ss\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 459,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 496,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 539,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
+      "kind": "Array",
+      "offset": 814,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 864,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}
