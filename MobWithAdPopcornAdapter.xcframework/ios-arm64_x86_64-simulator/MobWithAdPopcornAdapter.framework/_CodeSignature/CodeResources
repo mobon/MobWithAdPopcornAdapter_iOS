@@ -22,7 +22,7 @@
 		</data>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		g5Dbe5cr2giKUt+refBlm9amMtk=
+		4xArNbGzKjtIomA/fa1zb0J1lHM=
 		</data>
 		<key>GFPNDAMraidResource.bundle/mraid.js</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		IjIbuDq8JzyFP3P3xfLeK0gJkmg=
+		KY0wfgclMOk0WArI/hf+0vFEDWc=
 		</data>
 		<key>GFPNDANativeResource.bundle/de.lproj/GFPNDANativeLocalizable.strings</key>
 		<dict>
@@ -204,7 +204,7 @@
 		</data>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		ZTdmamaWW+9peV4IwPFgjQ2VY54=
+		LRBDMDcgIWyN9wuNReP2vIpZb60=
 		</data>
 		<key>GFPSDKResource.bundle/de.lproj/GFPLocalizable.strings</key>
 		<dict>
@@ -302,11 +302,11 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		eBGpKLpq68CLR5b+H9JODmWMb14=
+		5/SeiozADEOe2hbQWrqOvxElaAo=
 		</data>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JpAN1m1UJG4X3GOc7FqqQqN1C/w=
+		tAK6LWCAVQP3IUG8lBaxVIrr1sM=
 		</data>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -322,11 +322,11 @@
 		</data>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7G32GPEd0ta1fkrJXmrQXJwunwk=
+		F9hfEmPZT1SwSkrVxg7DutWgT0M=
 		</data>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JpAN1m1UJG4X3GOc7FqqQqN1C/w=
+		tAK6LWCAVQP3IUG8lBaxVIrr1sM=
 		</data>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -342,11 +342,11 @@
 		</data>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rJXkx0dz9fd1DNjEmwuvvjhSVps=
+		/GVDi2WohLBNvq7mS9L3qnaIh4E=
 		</data>
 		<key>NAMSDKResources.bundle/Info.plist</key>
 		<data>
-		xqRePQU/aKOMSo64PP1ImVdKoeM=
+		KvRdvWwn/IpNBfnCX5iCNFvGZDc=
 		</data>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -387,7 +387,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gNU6iS3e+B85m9Ho8Qyq6BRJ53vtAiW9LMaDBxnaiOE=
+			FKX8YGGlOiJR8mxFhB0I5akZZIZPzHSyH8bmEfbz7B8=
 			</data>
 		</dict>
 		<key>GFPNDAMraidResource.bundle/mraid.js</key>
@@ -513,7 +513,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sUvh49vqIzNUkRo2dNrGPvpQnFvpUmuD8ZdXm2EblxM=
+			hpXzK09VJWq2VN4RYQjyO5qujYcblpyjnlXQ6tyg3qA=
 			</data>
 		</dict>
 		<key>GFPNDANativeResource.bundle/de.lproj/GFPNDANativeLocalizable.strings</key>
@@ -638,7 +638,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XzmP3FjqwJrMOiBvIACtlNsrn9TA2HTI79K4UD8nKHo=
+			GmiOsRjSiAvr6yvx8NaUsmFwvodm7Fd8/jyJuiw8o0g=
 			</data>
 		</dict>
 		<key>GFPSDKResource.bundle/de.lproj/GFPLocalizable.strings</key>
@@ -742,7 +742,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rg9zcb1PhPd4t1O/Zhu6Gr09bUQqZ4J5SI0ae9h7mkI=
+			UdbEFM8/Cbg0ypgaTlZL7P2vT9V4bXpbwGjma2kg2bQ=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -770,14 +770,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KXxcQichCwGAqaiMQOrrpK++n/eMmtUWEkC0Tsf/rPI=
+			9yghj8vUuT+38AA0tI1Tw8XFnFSNl9T5awGXyCldf64=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rg9zcb1PhPd4t1O/Zhu6Gr09bUQqZ4J5SI0ae9h7mkI=
+			UdbEFM8/Cbg0ypgaTlZL7P2vT9V4bXpbwGjma2kg2bQ=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -805,14 +805,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ggJ5dtBHI0MEPOoVolYlQqHTCWUN6jQYJBBhOWtxmPs=
+			t26clHjee8yKffbVIVtMRdjmZzEP7Lrt5sbpmP2Imdo=
 			</data>
 		</dict>
 		<key>NAMSDKResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FHOWUQqErLhL4rSA+nMNnyXvWCRiRHLe/NNbst4BAcA=
+			XcZ+Bo+ugOgecxhxsBVaiW9Qd5ZvKuVKYTaV2WWaus0=
 			</data>
 		</dict>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>

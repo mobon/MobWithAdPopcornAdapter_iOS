@@ -108,35 +108,35 @@
     {
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 459,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
-      "kind": "BooleanLiteral",
-      "offset": 496,
+      "offset": 1650,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 539,
+      "offset": 1688,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1731,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
       "kind": "Array",
-      "offset": 814,
+      "offset": 2006,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter\/MobWithAdPopcornAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 864,
+      "offset": 2056,
       "length": 2,
       "value": "\"\""
     }

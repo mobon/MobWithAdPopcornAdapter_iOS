@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MobWithAdPopcornAdapter'
-  s.version          = '3.3.2.1.3.26'
+  s.version          = '3.3.2.1.3.34'
   s.summary          = 'MobWithAdFitAdapter for Mobwith AD iOS SDK'
   s.description      = <<-DESC
 MobWithAdFitAdapter for Mobwith AD의 iOS SDK 입니다.
@@ -20,7 +20,7 @@ DESC
 
   s.vendored_frameworks = 'MobWithAdPopcornAdapter.xcframework'
 
-  s.dependency 'MobWithAdSDK', '~> 1.3.26'
+  s.dependency 'MobWithAdSDK', '~> 1.3.34'
     s.dependency 'APSSPSDK', '~> 3.3.2'
   s.dependency 'APSSPMediationNAM', "~> 8.22.1.4"
 end
