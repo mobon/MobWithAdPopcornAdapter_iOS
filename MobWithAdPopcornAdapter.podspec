@@ -21,6 +21,6 @@ DESC
   s.vendored_frameworks = 'MobWithAdPopcornAdapter.xcframework'
 
   s.dependency 'MobWithAdSDK', '~> 1.3.34'
-    s.dependency 'APSSPSDK', '~> 3.3.2'
+  s.dependency 'APSSPSDK', '~> 3.3.2'
   s.dependency 'APSSPMediationNAM', "~> 8.22.1.4"
 end
